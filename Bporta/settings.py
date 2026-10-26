@@ -138,3 +138,5 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Puerto por defecto de Vite (React)
     "http://localhost:3000",  # Puerto alternativo
 ]
+
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
