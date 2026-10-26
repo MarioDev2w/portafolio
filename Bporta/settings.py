@@ -136,7 +136,8 @@ MAILERS = {
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Puerto por defecto de Vite (React)
-    "http://localhost:3000",  # Puerto alternativo
+    "http://localhost:3000",
+     "https://frontendporta-ppd4e71at-mariiov5.vercel.app" # Puerto alternativo
 ]
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
